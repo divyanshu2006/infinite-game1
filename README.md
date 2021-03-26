@@ -1,1 +1,2 @@
-# infinite-game1
+# class-38
+infinite runner game-1
